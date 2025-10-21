@@ -1,4 +1,4 @@
-# VR-like-experience
+# VR like Experience
 
 Video game features the VR-like experience using 360-degree panoramic images, mede by Unreal Engine 5. Since the project size is too big to upload here, the whole project is stored here: https://1drv.ms/f/c/cd99854cdd5e93e9/EtF5k1F9d7FLp96LJipYZKgBY-08YKSPG52w5Kyo2prMkQ?e=wjLV7a
 
