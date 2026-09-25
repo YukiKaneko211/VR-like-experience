@@ -19,7 +19,7 @@ I used assets provided by kood/Jõhvi.
 
 ## How to Play
 
-To play the game, execute `MouseVR.exe` in the project folder.
+To play the game, download `Windows` folder and execute `MouseVR.exe` in the folder.
 
 - Move forward, backward, left and right using the WASD keys.
 - Look around using the mouse.
